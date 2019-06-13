@@ -1,0 +1,4 @@
+IDENTITY_URL = http://eacl.v3.api.identity.llsinttools.net/api/
+CONNECT_URL = http://eacl.v3.api.connect.llsinttools.net/api
+
+REGISTRATION_BEGIN = ${IDENTITY} + 

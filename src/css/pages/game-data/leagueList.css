@@ -1,0 +1,18 @@
+.NavLinkChange {
+    color: blue ;
+}
+.NavLinkChange:hover {
+    color: green ;
+}
+.profilePage{
+    cursor: pointer;
+    color: blue ;
+
+}
+.NavLinkChange:hover {
+    color: green ;
+}
+
+.marginChange {
+    margin-top: 2% !important; 
+}

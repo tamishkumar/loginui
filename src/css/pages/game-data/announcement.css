@@ -1,0 +1,20 @@
+
+
+button.btn.btn-fill.btn-primary.btn-sm.position {
+    float: right;
+}
+.Nav_link {
+    color: orangered;
+}
+.Nav_link:hover{
+color:#7d0707
+}
+.textAlign{
+    word-break: break-all;
+}
+.wrapper-class{
+    min-height: 250px !important;
+}
+.modal-dialog {
+    max-width: 600px !important;
+}
